@@ -44,3 +44,5 @@
 ### 11
 
 - K-Means Clustering
+
+#### Disclaimer: These exercises were homework for an university course, so there are mistakes. 
